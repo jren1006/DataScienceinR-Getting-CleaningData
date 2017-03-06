@@ -92,6 +92,8 @@ Particularly in this repo, only those with mean and std are used. They are liste
 * `fBodyBodyGyroJerkMagStd`
 * `fBodyBodyGyroJerkMagMeanFreq`
 
+Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The labels and their corresponding values are listed as follows.
+
 ## Activity Labels
 
 * `WALKING` (value `1`): subject was walking during the test
